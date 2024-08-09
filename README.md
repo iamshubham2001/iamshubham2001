@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/iamshubham2001)
 
-- 📫 How to reach me *iamshubh2001@gmail.com*
+- 📫 How to reach me *myshubham2001@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
