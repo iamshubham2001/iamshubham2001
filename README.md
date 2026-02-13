@@ -1,13 +1,44 @@
-<h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhtaralidfc&label=Profile%20views&color=0e75b6&style=flat" alt="akhtaralidfc" /> </p> -->
+# Hi 👋, I'm Shubham Sharma
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhtaralidfc" alt="iamshubham2001" /></a> </p> -->
+🚀 **DevOps & Cloud Enthusiast | AWS Certified Solutions Architect**
 
-- 🌱 I’m currently learning *C++,NodeJS,MySQL,MongoDB,Linux*
+---
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/iamshubham2001)
+### 👨‍💻 About Me
 
-- 📫 How to reach me *myshubham2001@gmail.com*
+* 🌱 Currently focused on **DevOps, Cloud Infrastructure, and Automation**
+* ☁️ Certified **AWS Solutions Architect**
+* 🛠️ Skilled in **Linux, Terraform, Docker, AWS, CI/CD, Monitoring**
+* 📚 Continuously learning and building real-world cloud projects
+* 🎯 Goal: Become a highly skilled **DevOps Engineer**
+
+---
+
+### 🧰 Tech Stack
+
+**Cloud:** AWS
+**DevOps:** Terraform, Docker, Git, CI/CD
+**OS:** Linux, Windows Server
+**Languages:** Python, Bash, C++
+**Databases:** MySQL, MongoDB
+
+---
+
+### 📂 Projects
+
+🔗 All my projects are available on **GitHub**
+
+---
+
+### 📫 Contact Me
+
+📧 **[myshubham2001@gmail.com](mailto:myshubham2001@gmail.com)**
+
+---
+
+### 🤝 Connect With Me
+
+LinkedIn | GitHub | Portfolio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
