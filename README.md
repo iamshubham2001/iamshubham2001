@@ -33,14 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iamshubham2001&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamshubham2001&theme=tokyonight"/>
-</p>
-
----
-
 ## 📬 Connect With Me
 <p>
 <a href="mailto:iamshubh2001@gmail.com">
