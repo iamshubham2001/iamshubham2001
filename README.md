@@ -32,15 +32,11 @@
 
 ### 📫 Contact Me
 
-📧 **[myshubham2001@gmail.com](mailto:myshubham2001@gmail.com)**
+📧 **[iamshubh2001@gmail.com](mailto:iamshubh2001@gmail.com)**
 
 ---
 
-### 🤝 Connect With Me
-
-LinkedIn | GitHub | Portfolio
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">### 🤝 Connect With Me</h3>
 <p align="left">
 <!-- <a href="https://www.geeksforgeeks.org/user/myshubhdnkw/" target="blank"><img align="center" src="https://x.com/geeksforgeeks/photo" alt="https://www.geeksforgeeks.org/user/myshubhdnkw/" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mr-akhtar-ali-7143251b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-sharma-199026174/" height="30" width="40" /></a>
