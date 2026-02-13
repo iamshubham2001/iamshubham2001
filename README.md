@@ -20,10 +20,10 @@
 
 ## ⚙️ Tech Stack
 **Cloud:** AWS  
-**DevOps:** Terraform • Docker • Git • GitHub Actions  
-**OS:** Linux • Windows Server  
-**Languages:** Python • Bash • C++  
-**Databases:** MySQL • MongoDB  
+**DevOps:** Terraform | Docker | Git | GitHub Actions  
+**OS:** Linux | Windows Server  
+**Languages:** Python | Bash | C++  
+**Databases:** MySQL  
 
 ---
 
